@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60pt" height="67pt" viewBox="0 0 60 67" version="1.1">
+<defs>
+<filter id="alpha" filterUnits="objectBoundingBox" x="0%" y="0%" width="100%" height="100%">
+  <feColorMatrix type="matrix" in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+</filter>
+<image id="image9" width="60" height="67" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAABDCAYAAADAiGZmAAAABmJLR0QA/wD/AP+gvaeTAAAAqElEQVRoge3asQ0CMRBE0TE6EZDRAdkFENADjUAhF9EAogJqoYfLqYKAwKYFixEBw3/xaldfTi0BAAAA+ETpHWzzeanVcWFde95q2U4va4dp6J4c6yztNta1prukg7XD5L3YDyI4HcHpCE5HcDqC0xGcjuB0BKcjOB3B6QhOR3A6gtMRnI7gdASnIzgdwen+Lrj/21LdX1W0tq6100O6WCsAAAAAAN/wBgjREEKkhkhOAAAAAElFTkSuQmCC"/>
+<mask id="mask0">
+  <g filter="url(#alpha)">
+<use xlink:href="#image9"/>
+  </g>
+</mask>
+<clipPath id="clip1">
+  <rect x="0" y="0" width="60" height="67"/>
+</clipPath>
+<g id="surface8" clip-path="url(#clip1)">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(92.156863%,92.156863%,92.156863%);fill-opacity:0.921569;" d="M 10.152344 47.828125 L 10.128906 40.757812 C 10.128906 40.757812 17.523438 42.808594 21.710938 43.867188 L 21.78125 12.96875 L 27.75 12.96875 L 27.75 52.5 Z M 10.152344 47.828125 "/>
+</g>
+</defs>
+<g id="surface1">
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(83.137255%,72.156863%,18.823529%);fill-opacity:1;" d="M 5.566406 60.328125 L -0.00390625 0.00390625 L 59.996094 0.0273438 L 54.472656 60.285156 L 29.949219 67.101562 Z M 49.957031 57.039062 L 54.613281 5.367188 L 30.042969 5.367188 L 30.230469 62.355469 Z M 27.75 12.945312 L 21.78125 12.945312 L 21.710938 43.867188 L 10.128906 40.757812 L 10.152344 47.828125 L 27.75 52.5 Z M 27.75 12.945312 "/>
+<use xlink:href="#surface8" mask="url(#mask0)"/>
+<path style=" stroke:none;fill-rule:nonzero;fill:rgb(99.215686%,84.705882%,23.529412%);fill-opacity:1;" d="M 30.042969 5.347656 L 54.613281 5.347656 L 49.957031 57.015625 L 30.042969 62.332031 Z M 48.695312 48.359375 L 50.308594 29.039062 L 38.375 30.351562 L 38.375 20.035156 L 51.105469 19.988281 L 51.617188 12.945312 L 32.40625 13.035156 L 32.664062 38.6875 L 44.269531 36.730469 L 44.105469 42.4375 L 32.40625 45.5 L 32.523438 52.5 Z M 48.695312 48.359375 "/>
+</g>
+</svg>
