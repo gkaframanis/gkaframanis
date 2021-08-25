@@ -1,8 +1,16 @@
 # 👋 Hi, I’m Gregory Kaframanis  
 ## I'm a Full Stack Web & Software Developer ![global](images/full-stack-developer.svg)
 
-- 📖 I'm currently delving deeper into React.js and Node.js.
-- 🤙 I will gladly offer whenever possible my help to anyone that needs it.
+- 📖 I'm currently delving deeper into ***React.js*** and ***Node.js***.<br>
+- 🤙 I will gladly offer, whenever possible, my help to anyone that needs it.<br>
+- ![linkedin](images/linkedin-icon.svg) Connect with me on [LinkedIn](https://www.linkedin.com/in/gkaframanis).<br>
+- ![facebook](images/facebook-3.svg) We can become friends on [Facebook](https://www.facebook.com/profile.php?id=100011450656355).<br>
+- ![twitter](images/twitter-3.svg) You can also contact me on my newly created account on [Twitter](https://twitter.com/kaframanis).  
+
+
+## My Github Stats  
+
+![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkaframanis)
 
 ## My Favorite Technologies
 > Programming languages, frameworks, libraries and tools that I use for my work.
