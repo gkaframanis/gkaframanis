@@ -5,7 +5,4 @@
 [![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkaframanis)](https://github.com/gkaframanis/github-readme-stats)
 
 ## My Favorite Technologies
-> Front End 
-
-![HTML](images/html-1.svg)  
-HTML5
+> Programming languages, frameworks, libraries and tools that I use for my work.
