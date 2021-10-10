@@ -3,6 +3,7 @@
 
 - 📖 I'm currently delving deeper into ***React.js*** and ***Node.js***.<br>
 - 🤙 I will gladly offer, whenever possible, my help to anyone that needs it.<br>
+- ![personal webpage](images/homepage.svg) My [personal webpage](https://www.gkaframanis.live).<br>
 - ![linkedin](images/linkedin-icon.svg) Connect with me on [LinkedIn](https://www.linkedin.com/in/gkaframanis).<br>
 - ![facebook](images/facebook-3.svg) We can become friends on [Facebook](https://www.facebook.com/profile.php?id=100011450656355).<br>
 - ![twitter](images/twitter-3.svg) You can also contact me on my newly created account on [Twitter](https://twitter.com/kaframanis).  
