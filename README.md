@@ -1,17 +1,27 @@
 # 👋 Hi, I’m Gregory Kaframanis  
-## I'm a Full Stack Web & Software Developer ![global](images/full-stack-developer.svg)
 
-- 📖 I'm currently delving deeper into ***React.js*** and ***Node.js***.<br>
-- 🤙 I will gladly offer, whenever possible, my help to anyone that needs it.<br>
+Software Engineer focused on modern web applications, enterprise frontend systems, and maintainable product development.
+![global](images/full-stack-developer.svg)
+
 - ![personal webpage](images/homepage.svg) My [personal webpage](https://www.gkaframanis.live).<br>
 - ![linkedin](images/linkedin-icon.svg) Connect with me on [LinkedIn](https://www.linkedin.com/in/gkaframanis).<br>
-- ![facebook](images/facebook-3.svg) We can become friends on [Facebook](https://www.facebook.com/profile.php?id=100011450656355).<br>
-- ![twitter](images/twitter-3.svg) You can also contact me on my newly created account on [Twitter](https://twitter.com/kaframanis).  
 
 
-## My Github Stats  
+## What I work with
+- React, Next.js, TypeScript
+- Redux Toolkit, React Native
+- Node.js, Python, SQL
+- REST APIs, frontend architecture, production workflows
 
-![Gregory's GitHub stats](https://github-readme-stats.vercel.app/api?username=gkaframanis)
+## What I’m interested in
+- Enterprise software engineering
+- Scalable frontend architecture
+- Product reliability and maintainability
+- Cross-functional software delivery
+
+## Links
+- Portfolio: https://gkaframanis.live
+- LinkedIn: https://www.linkedin.com/in/gkaframanis
 
 ## My Favorite Technologies
 > Programming languages, frameworks, libraries and tools that I use for my work.
