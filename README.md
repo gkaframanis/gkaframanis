@@ -3,10 +3,6 @@
 Software Engineer focused on modern web applications, enterprise frontend systems, and maintainable product development.
 ![global](images/full-stack-developer.svg)
 
-- ![personal webpage](images/homepage.svg) My [personal webpage](https://www.gkaframanis.live).<br>
-- ![linkedin](images/linkedin-icon.svg) Connect with me on [LinkedIn](https://www.linkedin.com/in/gkaframanis).<br>
-
-
 ## What I work with
 - React, Next.js, TypeScript
 - Redux Toolkit, React Native
