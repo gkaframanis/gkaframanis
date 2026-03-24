@@ -16,7 +16,7 @@ Software Engineer focused on modern web applications, enterprise frontend system
 - Cross-functional software delivery
 
 ## Links
-- Portfolio: https://gkaframanis.live
+- Portfolio: https://gkaframanis.dev
 - LinkedIn: https://www.linkedin.com/in/gkaframanis
 
 ## My Favorite Technologies
